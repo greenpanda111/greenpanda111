@@ -1,10 +1,10 @@
 ## Hi 👋 I'm Ben
 
-I'm an undergraduate electronic engineer studying at The university of York with a passion for biomedical engineering
+I'm an undergraduate electronic engineer studying at The University of York with a passion for biomedical engineering!
 
-I'm currently completing my final year at university, while also conducting independant research into soft robotics for automating medical processes as well as developing my own soft robotics kit to assist with teaching of soft robotics to undergraduates as well as use in research.
+I'm currently completing my final year at university, while conducting independant research into soft robotics for automating medical processes as well as developing my own soft robotics kit to assist with teaching of soft robotics to undergraduates as well as use in research.
 
-In my spare time, I like to work on designing custom mechanical keyboards in hopes of eventually building a complete board with a CNC'd aluminium case.
+In addition to this I am currently coverting an Ender 3 3D printer into a belt printer. This will allow me to have an infinite z axis and print super long models or print an infinite number of the same model continuously.
 
 <p align="center">  
   <a href="https://github.com/greenpanda111">
